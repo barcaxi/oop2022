@@ -320,9 +320,7 @@ To do:
 
 If your code is completed correctly, you should see a planet with two moons orbit the sun in the middle of the window.
 
-## Part 4 - Exam Alert
-
-### Question 1
+## Part 4 - Author Book
 
 Create a new Processing project for this task.
 
@@ -362,12 +360,9 @@ void draw()
 
 ```
 
+1.	Provide the code for each of the Book class constructors. 
 
-In the exam question these were the specific questions asked:
-
-1.	Provide the code for each of the Book class constructors. (6 marks)
-
-1.	Provide the code for the printAuthors() method. Assume that all other methods are complete. (5 marks)
+1.	Provide the code for the printAuthors() method. Assume that all other methods are complete. 
 	Should print something like this:
 
 	```text
@@ -377,12 +372,11 @@ In the exam question these were the specific questions asked:
 
 	```
 
-
 1.	Show how you would create a ``Book`` object in a tester class.  The book should be: "The Best American Short Stories", price: 9.80, quantity: 3.
 
-	The authors should be: "Heidi Pitior, hpitior@gmail.com, female", "Jennifier Egan, jegan@yahoo.com, female", "Mike Atwell, matwell@hotmail.com, male". (6 marks)
+	The authors should be: "Heidi Pitior, hpitior@gmail.com, female", "Jennifier Egan, jegan@yahoo.com, female", "Mike Atwell, matwell@hotmail.com, male". 
 
 1.	Continuing your tester in part (3), show how you could then search for the author named Jennifer Egan and, if found, change the associated email address to jennifer.egan@gmail.com.
 
-	Note: Your search must retrieve the author information from the book object. (8 marks)
+	Note: Your search must retrieve the author information from the book object. 
 
