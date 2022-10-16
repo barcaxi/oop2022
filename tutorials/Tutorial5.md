@@ -242,9 +242,7 @@ In this part we'll create a program that can record and create a simple GAA scor
 
 
 
-## Part 5 - Exam Alert
-
-### Question 1
+## Part 5 
 
 Download the Processing project for this task from [here](../code/tutorials/Accounts.zip?raw=true).
 
