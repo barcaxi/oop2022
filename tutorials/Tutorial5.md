@@ -182,7 +182,7 @@ In this part a ``Circle`` and ``Square`` class are implemented as subclasses of 
 		...
 
 		s = new Square(100, 200, 30);
-		println(s.getPerimeter());  // should print 240
+		println(s.getPerimeter());  // should print 120
 		println(s);                 // should print "Square: length=30"	
 	}
 
@@ -250,18 +250,15 @@ Given the ``BankAccount`` class and skeleton code for the ``CheckingAccount`` cl
 
 1.	Shadowing of instance fields is a common mistake for programmers who are new to inheritance. 
 
-	Explain what this means. (4 marks)
+	Explain what this means.
 
-	With the above statement in mind, correct the mistake that is contained in the instance fields declared in the ``CheckingAccount`` class. (2 marks)
+	With the above statement in mind, correct the mistake that is contained in the instance fields declared in the ``CheckingAccount`` class.
 
-1.	Supply the code for the empty methods in the ``CheckingAccount`` class. (6 marks)
+1.	Supply the code for the empty methods in the ``CheckingAccount`` class. 
 
-1.	For the tester code given in the ``setup()``:
-
-	-	add code to print the total amount of money in ``harrysChecking`` at the end. (2 marks)
-	-	calculate the total amount of money in ``harrysChecking`` at the end. (2 marks)
-
-1.	Provide a method in the ``BankAccount`` class called transfer that will allow for transfer of money from one ``BankAccount`` to another (5 marks)
+1.	For the tester code given in the ``setup()`` add code to print the total amount of money in ``harrysChecking`` at the end. 
+	
+1.	Provide a method in the ``BankAccount`` class called transfer that will allow for transfer of money from one ``BankAccount`` to another
 
 
 
