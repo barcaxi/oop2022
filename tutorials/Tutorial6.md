@@ -120,9 +120,9 @@ You should be using polymorphism in your solution.
 	Remember, your ``ArrayList`` is of type ``Shape`` and you can only invoke methods that are declared in ``Shape``.  Use the ``instanceof`` operator and then cast appropriately to provide the solution needed.
 
 
-## Exam Revision
+<!-- ## Exam Revision
 
-Attempt the Week 7 exam questions [here](../notes/Examinations.md).
+Attempt the Week 7 exam questions [here](../notes/Examinations.md). -->
 
 
 
