@@ -224,7 +224,3 @@ Make sure you understand this code.  It is explained [here](../notes/AbstractCla
 
 
 
-
-## Exam Revision
-
-Attempt the Week 8 exam question(s) [here](../notes/Examinations.md).
