@@ -235,8 +235,3 @@ To illustrate one of the purposes of interfaces let's use the ``Shape``, ``Squar
 Using ``tut08_08Processing`` provide the necessary code to implement the ``Resizable`` interface shown in the [notes](../notes/Interfaces.md)
 
 
-
-## Exam Revision
-
-Attempt the Week 9 exam question(s) [here](../notes/Examinations.md).
-
