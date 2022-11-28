@@ -13,7 +13,7 @@
 
 The deadline for electronic submissions is noon Friday 23rd December 2022.  Submit your code via the link on BlackBoard.
 
-The deadline for paper submissions is Friday 20th December 2022.  Submit your paper submission at PR3316.  The paper submission will include a [Cover Sheet](resources/2022OOPa4CACoverSheet.docx?raw=true).
+Submit your [Assignment Cover Sheet](resources/2022OOPa4CACoverSheet.docx?raw=true) during any lecture before the end of semester.
 
 
 **A note on plagiarism and cheating**
